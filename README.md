@@ -82,12 +82,6 @@ Smallest Number: 3
 - Count the even and odd numbers.
 - Add input validation.
 
-## Author
-
-Peddada Vasavi
-
-BSc Artificial Intelligence
-
 ## Conclusion
 
 This project demonstrates how Python can be used to
