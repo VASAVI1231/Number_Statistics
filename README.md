@@ -23,7 +23,6 @@ for simple numerical data processing.
 
 - Python 3
 - Google Colab
-- Jupyter Notebook
 
 ## Concepts Used
 
